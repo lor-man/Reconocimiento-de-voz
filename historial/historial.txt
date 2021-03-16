@@ -1,2 +1,6 @@
 Archivo de audio: audio_1.wav
 Has dicho : contrató Serrano ahorita que la estoy
+Archivo de audio: audios\audio_3.wav
+Has dicho : autoridades se pusieron en marcha
+Archivo de audio: audios\audio_4.wav
+Has dicho : se detectó por el satélite
